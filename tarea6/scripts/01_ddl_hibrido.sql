@@ -14,7 +14,7 @@
      - alerta_iot        : alertas generadas por trigger a partir del flujo IoT.
      - perfil.preferencias : columna JSONB nueva (ajustes flexibles por usuario).
 
-   PRERREQUISITO: haber cargado el esquema base (scripts/base_tarea5/01 a 03).
+   PRERREQUISITO: haber cargado el esquema base (tarea5/scripts/final/01 a 03).
    Cada objeto se crea con restricciones nombradas (pk_, fk_, ck_, idx_).
    ============================================================================ */
 
